@@ -46,4 +46,6 @@ If you have any questions, suggestions, or concerns regarding this project, plea
 
 Happy coding!
 
-- This [README](README.md) was written by ChatGPT :)
+---
+
+>This [README](README.md) was mainly written by ChatGPT :)
