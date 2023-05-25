@@ -24,5 +24,10 @@ public class Main {
 
         //Nr13_RomanToInteger test3 = new Nr13_RomanToInteger();
         /*System.out.println(test3.romanToInt("XXVVII"));*/
+
+        Nr1_TwoSum test3 = new Nr1_TwoSum();
+        /*int[] nums = {-3,4,3,90};
+        int target = 0;
+        System.out.println(Arrays.toString(test3.twoSum(nums, target)));*/
     }
 }
