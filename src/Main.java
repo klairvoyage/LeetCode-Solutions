@@ -25,9 +25,13 @@ public class Main {
         //Nr13_RomanToInteger test3 = new Nr13_RomanToInteger();
         /*System.out.println(test3.romanToInt("XXVVII"));*/
 
-        Nr1_TwoSum test3 = new Nr1_TwoSum();
+        Nr1_TwoSum test4 = new Nr1_TwoSum();
         /*int[] nums = {-3,4,3,90};
         int target = 0;
-        System.out.println(Arrays.toString(test3.twoSum(nums, target)));*/
+        System.out.println(Arrays.toString(test4.twoSum(nums, target)));*/
+
+        Nr169_MajorityElement test5 = new Nr169_MajorityElement();
+        /*int[] nums = {3,4,3,90,3};
+        System.out.println(test5.majorityElement(nums));*/
     }
 }
